@@ -1,8 +1,6 @@
-## Naming Roster
+# Naming Roster
 
-- [Flower](flower.csv)
-
-### Shakespeare
+## Shakespeare
 
 - [Antony](shakespeare/antony.csv)
 - [Julius Caesar](shakespeare/caesar.csv)
@@ -14,12 +12,23 @@
 
 Data From: http://www.opensourceshakespeare.org/views/plays/characters/chardisplay.php
 
-### Other
+## Novel
 
 - [King Arthur](arthur.csv)
 - [Peter Pan](neverland.csv)
+
+## Movie
+
 - X-Men
-- Marvel
-- FF VII
+- [Marvel](marvel.csv)
 - Star Wars
 - Star Trek
+
+## Game
+
+- FF VII
+- World Craft
+
+## Other
+
+- [Flower](flower.csv)
