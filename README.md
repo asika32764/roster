@@ -1,5 +1,7 @@
 # Naming Roster
 
+Tired to use `foo`, `bar` as naming example? Find some interesting names here. 
+
 ## Shakespeare
 
 - [Antony](shakespeare/antony.csv)
