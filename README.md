@@ -7,10 +7,10 @@
 - [Antony](shakespeare/antony.csv)
 - [Julius Caesar](shakespeare/caesar.csv)
 - [Hamlet](shakespeare/hamlet.csv)
-- [Kin John](shakespeare/john.csv)
+- [King John](shakespeare/john.csv)
 - [Macbeth](shakespeare/macbeth.csv)
 - [Othello](shakespeare/othello.csv)
-- [Twelfth Night](shakespeare/.csv)
+- [Twelfth Night](shakespeare/twelfth-night.csv)
 
 Data From: http://www.opensourceshakespeare.org/views/plays/characters/chardisplay.php
 
